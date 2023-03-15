@@ -1,0 +1,25 @@
+.div1 {
+  background-color: rgb(198, 198, 198);
+  width: 299px;
+  height: 299px;
+  clip-path: circle(299px at 0px 0px);
+  position: absolute;
+  top: 0;
+}
+.div2 {
+  background-color: rgb(221, 221, 221);
+  width: 210px;
+  height: 400px;
+  clip-path: circle(298px at 299px 299px);
+  position: absolute;
+  top: 110px;
+  right: 1px;
+}
+.div3 {
+  background-color: rgb(236, 236, 236);
+  width: 150px;
+  height: 150px;
+  clip-path: circle(150px at 0px 150px);
+  position: absolute;
+  top: 360px;
+}
