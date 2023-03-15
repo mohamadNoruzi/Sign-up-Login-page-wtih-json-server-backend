@@ -4,7 +4,7 @@ import { nanoid } from "@reduxjs/toolkit";
 const userApi = createApi({
   reducerPath: "userApi",
   baseQuery: fetchBaseQuery({
-    baseUrl: "https://field-flawless-hallway.glitch.me",
+    baseUrl: "https://horse-joyous-lasagna.glitch.me",
   }),
 
   endpoints(builder) {
